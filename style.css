@@ -1,0 +1,30 @@
+.banner{
+	opacity:0.5;
+	}
+	.centered {
+	color:black;
+	padding:10px;
+	margin:5px;
+	font-family:Copperplate, Fantasy;
+	text-align:center;
+	}
+	.d1{
+	background-color:black;
+	color:white;
+	padding:10px;
+	margin:5px;
+	font-family:Courier New, monospace;
+	text-align:middle;
+	}
+	.d{
+	background:linear-gradient(#ECE3E3, #C8C5C5);
+	text-align:justify;
+	font-family:Garamond, Serif;
+	}
+	.col-sm-3:hover{
+	margin:1px;
+	}
+	.contact{
+	background-color:lightblue;
+	text-align:center;
+	}
