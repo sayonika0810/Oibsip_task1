@@ -1,2 +1,4 @@
 # Oibsip_task1
-Landing Page
+TASK 1: Landing Page
+IDE: Visual Studio Code
+Languages Used: HTML,CSS
